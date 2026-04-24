@@ -13,11 +13,16 @@ export default function Hero() {
         className="grid md:grid-cols-[1fr_auto] gap-10 items-center"
       >
         <div>
-          <p className="text-sm font-medium text-zinc-500 mb-4">
-            Hi, I&apos;m Adhithya -
-          </p>
+          <div className="flex items-center gap-2 mb-4">
+            <span className="inline-flex items-center rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-200 text-[11px] font-semibold px-2.5 py-0.5 uppercase tracking-wider">
+              Growth
+            </span>
+            <span className="text-sm font-medium text-zinc-500">
+              Hi, I&apos;m Adhithya
+            </span>
+          </div>
           <h1 className="text-4xl sm:text-6xl font-semibold tracking-tight leading-[1.05] max-w-3xl text-zinc-50">
-            Growth Marketing Leader -{" "}
+            Growth Marketer -{" "}
             <span className="text-zinc-500">
               Digital, SEM, SEO & Paid Media.
             </span>
@@ -45,6 +50,28 @@ export default function Hero() {
             >
               <Mail className="w-4 h-4" /> Contact
             </a>
+          </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $1.4M+ managed media
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              16x ROAS
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              300% ROI lifts
+            </span>
+          </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              $1.4M+ managed media
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              16x ROAS
+            </span>
+            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
+              300% ROI lifts
+            </span>
           </div>
         </div>
 

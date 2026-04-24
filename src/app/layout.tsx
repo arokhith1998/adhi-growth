@@ -21,6 +21,8 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} antialiased`}>
       <body className="font-sans">
         {children}
+        {/* tw-safelist */}
+        <span className="hidden bg-emerald-500/10 border-emerald-500/40 border-emerald-500/30 text-emerald-300 text-emerald-200 bg-emerald-400" aria-hidden />
         <Analytics />
       </body>
     </html>
