@@ -22,7 +22,7 @@ const projects: Project[] = [
   {
     title: "D2C Fashion - 300% ROI via Paid Search Restructure",
     blurb:
-      "Case study on how I rebuilt a D2C fashion brand's paid search account from the ground up - Google Merchant Center cleanup, Shopping feed restructure, smart bidding, and creative refresh - delivering a 300% ROI lift within a month.",
+      "Rebuilt a D2C fashion brand's paid search account from scratch - Google Merchant Center cleanup, Shopping feed restructure, smart bidding, and creative refresh - delivering a 300% ROI lift within a month.",
     tags: ["Paid Search", "Google Ads", "Shopping", "D2C"],
     link: null,
     repo: "https://github.com/arokhith1998/Projects/blob/main/D2C-Fashion-Brand-300percent-ROI-via-Paid-Search-Restructure.pdf",
@@ -32,7 +32,7 @@ const projects: Project[] = [
   {
     title: "Early-Stage Paid Growth at Pixis",
     blurb:
-      "Growth playbook for an early-stage AI adtech platform - how I structured paid acquisition, onboarding, and expansion motions across $1.4M in global D2C client budgets to deliver 3x ROAS and cut churn 50%.",
+      "Growth playbook for an early-stage AI adtech platform - paid acquisition, onboarding, and expansion motions across $1.4M in global D2C client budgets. 3x ROAS, 50% churn reduction.",
     tags: ["AI Adtech", "Growth", "Paid Media", "Customer Success"],
     link: null,
     repo: "https://github.com/arokhith1998/Projects/blob/main/Early-Stage%20Paid%20Growth%20at%20Pixis%20-%20AI%20Adtech%20Platform.pdf",
@@ -42,7 +42,7 @@ const projects: Project[] = [
   {
     title: "B2B Lead Generation - LinkedIn & Paid Search",
     blurb:
-      "A B2B lead-gen playbook combining LinkedIn paid campaigns with search demand capture - audience layering, bid strategy, creative testing, and attribution across the MQL-to-SQL funnel.",
+      "B2B lead-gen playbook combining LinkedIn paid campaigns with search demand capture - audience layering, bid strategy, creative testing, and attribution across the MQL-to-SQL funnel.",
     tags: ["LinkedIn Ads", "Paid Search", "B2B", "Lead Gen"],
     link: null,
     repo: "https://github.com/arokhith1998/Projects/blob/main/B2B-Lead-Generation-LinkedIn%26%20Paid%20Search.pdf",
@@ -60,9 +60,29 @@ const projects: Project[] = [
     emoji: "🔍",
   },
   {
+    title: "SwipeHire - AI Job Matching",
+    blurb:
+      "Built an AI job-matching MVP and ran paid + organic acquisition experiments (Google, Meta, Reddit, LinkedIn) to validate CAC, activation, and retention. Set up full attribution stack (GA4, GTM, dashboards) from scratch.",
+    tags: ["AI", "Product", "GA4", "Paid Acquisition"],
+    link: "https://swipehire.io/",
+    repo: null,
+    gradient: "from-fuchsia-600 via-pink-600 to-rose-700",
+    emoji: "💼",
+  },
+  {
+    title: "NSE Paper-Trading Bot",
+    blurb:
+      "Local paper-trading system for the Indian stock market that pulls live prices via nsepython and Yahoo Finance, scores a watchlist with technical indicators, and surfaces picks in an interactive HTML dashboard.",
+    tags: ["AI", "Python", "pandas", "yfinance"],
+    link: "https://nse-bot-lake.vercel.app/",
+    repo: "https://github.com/arokhith1998/nse-bot",
+    gradient: "from-emerald-500 via-teal-600 to-cyan-700",
+    emoji: "📈",
+  },
+  {
     title: "Bleeders & Leakers Analytics",
     blurb:
-      "4-page Power BI dashboard for FY2026 margin recovery across 1,200 opportunities ($626M target). Classifies accounts as bleeders (gradual margin erosion) vs leakers (abrupt loss), with regional deep-dives, sales pipeline funnel, product family scorecards, and rep-level performance. Sanitized data.",
+      "4-page Power BI dashboard for FY2026 margin recovery across 1,200 opportunities ($626M target). Classifies accounts as bleeders vs leakers with regional deep-dives, sales pipeline funnel, product family scorecards, and rep-level performance. Sanitized data.",
     tags: ["Power BI", "Pricing", "Analytics", "Dashboard"],
     link: null,
     repo: "https://github.com/arokhith1998/Projects/blob/main/Bleeders_Leakers_2026_Report.pdf",
@@ -72,7 +92,7 @@ const projects: Project[] = [
   {
     title: "Optimal Pricing Prediction Model",
     blurb:
-      "Regression and ML-driven pricing model identifying the price point that maximizes revenue for a product - feature engineering, cross-validation, and price-elasticity analysis in Python.",
+      "Regression and ML-driven pricing model identifying the price point that maximizes revenue - feature engineering, cross-validation, and price-elasticity analysis in Python.",
     tags: ["Pricing", "ML", "Python", "Elasticity"],
     link: null,
     repo: "https://github.com/arokhith1998/Projects",

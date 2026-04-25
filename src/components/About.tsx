@@ -7,7 +7,7 @@ export default function About() {
       <div className="mt-6 grid md:grid-cols-5 gap-10">
         <div className="md:col-span-3 space-y-4 text-zinc-300 leading-relaxed">
           <p>
-            I live inside the paid media stack - <strong className="text-zinc-100">paid advertising</strong>, <strong className="text-zinc-100">SEM</strong>, <strong className="text-zinc-100">SEO</strong>, <strong className="text-zinc-100">performance marketing</strong>, and <strong className="text-zinc-100">paid media</strong>. Four years running PPC, display, and Shopping campaigns, rebuilding organic discoverability, and engineering the funnels that turn clicks into revenue for B2B and D2C ecommerce brands.
+            I live inside the paid media and SEO stack - <strong className="text-zinc-100">PPC</strong>, <strong className="text-zinc-100">Shopping & Merchant Center</strong>, <strong className="text-zinc-100">SEM</strong>, <strong className="text-zinc-100">SEO</strong>, and <strong className="text-zinc-100">performance marketing</strong>. Four years engineering the funnels that turn clicks into revenue for B2B and D2C ecommerce brands, with side-builds like SwipeHire and NSE-Bot sharpening my product and analytics instincts.
           </p>
           <p>
             I&apos;m drawn to the problems where the answer sits at the
@@ -39,7 +39,7 @@ export default function About() {
               </div>
               <div className="flex justify-between">
                 <dt className="text-zinc-500">Open to</dt>
-                <dd className="text-zinc-100">Full-time Growth roles</dd>
+                <dd className="text-zinc-100">Growth / Performance roles</dd>
               </div>
             </dl>
           </div>

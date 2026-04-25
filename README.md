@@ -1,5 +1,5 @@
-# Adhi — Growth Marketing Portfolio
+# Adhi - Growth Marketing Portfolio
 
 Digital, SEM, SEO, Performance Marketing, Paid Media.
 
-Built with Next.js + Tailwind.
+Built with Next.js + Tailwind. Deployed on Vercel.

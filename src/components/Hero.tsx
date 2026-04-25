@@ -15,7 +15,7 @@ export default function Hero() {
         <div>
           <div className="flex items-center gap-2 mb-4">
             <span className="inline-flex items-center rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-200 text-[11px] font-semibold px-2.5 py-0.5 uppercase tracking-wider">
-              Growth
+              Growth Marketing
             </span>
             <span className="text-sm font-medium text-zinc-500">
               Hi, I&apos;m Adhithya
@@ -28,7 +28,7 @@ export default function Hero() {
             </span>
           </h1>
           <p className="mt-6 max-w-2xl text-lg text-zinc-400 leading-relaxed">
-            4+ years driving growth across paid advertising, SEM, SEO, and performance marketing for B2B and D2C ecommerce brands - $1.4M+ in managed media budgets, 16x ROAS rebuilds via Google Merchant Center restructures, and full-funnel paid media across Search, Shopping, Meta, and LinkedIn. M.S. Marketing Analytics with a Pricing specialization - Simon Business School, University of Rochester. Based in Boston, MA.
+            Performance marketer with 4+ years running PPC, display, Shopping, and SEO for B2B and D2C ecommerce brands. $1.4M+ in managed media budgets, 16x ROAS from a D2C Merchant Center rebuild, -25% CPA at Plug Power, and full-funnel paid media across Search, Shopping, Meta, LinkedIn, and Amazon. M.S. Marketing Analytics - Simon Business School. Based in Boston, MA.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
@@ -51,26 +51,16 @@ export default function Hero() {
               <Mail className="w-4 h-4" /> Contact
             </a>
           </div>
-          <div className="mt-8 flex flex-wrap gap-2">
+
+          <div className="mt-6 flex flex-wrap gap-2">
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
               $1.4M+ managed media
             </span>
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              16x ROAS
+              16x ROAS rebuild
             </span>
             <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              300% ROI lifts
-            </span>
-          </div>
-          <div className="mt-8 flex flex-wrap gap-2">
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              $1.4M+ managed media
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              16x ROAS
-            </span>
-            <span className="inline-flex items-center rounded-md bg-zinc-900 border border-zinc-800 text-zinc-300 text-xs font-medium px-3 py-1.5">
-              300% ROI lifts
+              -25% CPA at Plug Power
             </span>
           </div>
         </div>
