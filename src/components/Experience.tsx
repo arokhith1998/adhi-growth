@@ -5,7 +5,7 @@ const jobs = [
     period: "Sep 2024 – Present",
     location: "Boston, MA",
     summary:
-      "Leading GTM strategy, positioning, and pricing for new sensing products across North America and Europe.",
+      "Driving growth marketing for new sensing products across North America and Europe - GTM, demand gen, and full-funnel paid + content programs feeding sales pipeline.",
   },
   {
     company: "Sensata Technologies",
@@ -13,7 +13,7 @@ const jobs = [
     period: "Jun 2024 – Aug 2024",
     location: "Attleboro, MA",
     summary:
-      "Supported product marketing for new sensing lines - competitive research, pricing analysis, and content for sales enablement.",
+      "Ran market research, competitive teardowns, and demand-gen content for new sensing lines; built the case studies and battlecards used by sales reps.",
   },
   {
     company: "Plug Power",
@@ -21,7 +21,7 @@ const jobs = [
     period: "Oct 2022 – Jul 2023",
     location: "Latham, NY",
     summary:
-      "Owned PPC, display, and the MarTech stack - delivered −25% CPA and +20% conversion rate through bid and audience optimization.",
+      "Owned PPC, display, and the MarTech stack across Google Ads, Meta, and LinkedIn - delivered −25% CPA and +20% conversion rate through keyword work, bid strategy, and creative testing.",
   },
   {
     company: "Pixis",
@@ -29,7 +29,7 @@ const jobs = [
     period: "Jul 2021 – Sep 2022",
     location: "Bangalore, India",
     summary:
-      "Managed $1.4M in media budgets across global D2C clients; delivered 3x ROAS and cut churn 50% while directing an 8-person team.",
+      "Managed $1.4M in media budgets across global D2C clients - weekly PPC and display optimization cycles delivered 3x ROAS, cut churn 50%, and ran an 8-person team.",
   },
   {
     company: "GenY Medium",
