@@ -5,7 +5,7 @@ const jobs = [
     period: "May 2026 - Present",
     location: "Boston, MA",
     summary:
-      "Founder of Pricekeel - building AI-powered pricing tooling that plugs into growth teams' paid, SEO, and CRM stacks to surface where price is quietly leaking conversion and revenue.",
+      "Founder of Pricekeel - shipping a decision-integrity layer for B2B SaaS deal pricing. Live guardrails from closed-deal history plus Finance-auditable evidence for every override, so revenue teams stop quietly leaking margin on discount exceptions. Margin layer next.",
   },
   {
     company: "Sensata Technologies",
